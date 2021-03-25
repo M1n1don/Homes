@@ -1,0 +1,12 @@
+name: Homes
+version: ${project.version}
+main: jp.minidon.homes.Homes
+api-version: 1.15
+
+commands:
+  home:
+    description: Home
+  sethome:
+    description: SetHome
+  delhome:
+    description: DeleteHome
